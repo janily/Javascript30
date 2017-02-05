@@ -1,7 +1,9 @@
-# JavaScript30 - 30天不依赖任何框架和工具的纯javascript挑战
+# JavaScript30 - 30天纯javascript挑战
 
-> 课程原作者 [Wes Bos](https://github.com/wesbos)  
-> 课程学习地址 - [JavaScript30](https://javascript30.com/account)
+> 课程原作者 [Wes Bos](https://github.com/wesbos)
+
+> 课程学习地址 [JavaScript30](https://javascript30.com/account)
+
 > 完整中文学习笔记 [GitHub](https://github.com/janily/Javascript30.git)
 
 ## 关于Javascript30
